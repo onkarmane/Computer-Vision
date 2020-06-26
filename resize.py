@@ -1,3 +1,5 @@
+#Resize the given image using cubic interpolation method
+
 import numpy as np
 import imutils
 import argparse
